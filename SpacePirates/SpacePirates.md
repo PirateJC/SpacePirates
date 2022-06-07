@@ -1,1 +1,1 @@
-# Space Pirates Instructions
+# Space Pirates
