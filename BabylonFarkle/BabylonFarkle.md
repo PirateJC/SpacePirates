@@ -42,4 +42,3 @@ When the player before you decides to cash in on their points, handing you their
 When "banking" dice, those dice are no longer active. You cannot include them in when calculating scores from additional dice rolled.
 
 As the game starts, you must press your luck until you have accumulated 500 points. Once you've achieved 500 points, you are free to stop pressing your luck at any time.
-![image](https://user-images.githubusercontent.com/1668182/172450937-67466889-001b-40a5-b9dd-5bbc406e7d44.png)
