@@ -1,5 +1,8 @@
 # Babylon Farkle
 
+![image](https://user-images.githubusercontent.com/1668182/172544236-7df5e96d-7146-4e6e-b9f8-e966b6f7da34.png)
+
+
 Number of players - As many as you want!
 
 Babylon Farkle is a press-your-luck dice rolling game where players compete to be the first person to reach the target score of 10,000 points.
