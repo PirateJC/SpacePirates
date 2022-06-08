@@ -1,6 +1,6 @@
 # Space Pirates
 
-Overall Image
+![2](https://user-images.githubusercontent.com/1668182/172545052-8aeec037-a990-4968-8121-5bbe03893f4e.jpg)
 
 Players 2-6
 
@@ -30,24 +30,20 @@ For example:
 * Speed - 3
 * Health - 4
 
-Image of stat card
+![3](https://user-images.githubusercontent.com/1668182/172545252-2267e2e5-61c0-456b-93f9-cb2abc494bb7.jpg)
 
 Determine who starts with a high roll of a d6. The starting pilot takes the first player token. Each pilot places their ship within 1 straight maneuver from the edge of the playing area and not closer than the range string to another pilot's token that has already been placed. If each pilot is controlling more than one plane, take it in turns until each token is placed down.
 
 There are 2 stages in each round of Space Pirates, the Move Stage and the Attack Stage. Everyone moves during the Move stage, and then everyone Attacks during the Attack Stage. Here are how they work:
 
 ## Move Stage
-* Pilots take turns moving their ship using the move template, up to their Speed value. Each move on the template has a cost of 1, 2 or 3 for the straight, bank & turn maneuvers respectively.
+* Pilots take turns moving their ship using the move template, up to their Speed value. Each move on the template has a cost of 1, 2 or 3 for the straight, bank & turn maneuvers respectively. The maneuver costs are indicated with arrows on the move template.
 * To move, place the maneuver template at the front of the plane token, and move the plane to the other end of the template.
 * The pilot may perform as many maneuvers as they like as long as they have enough Speed value to afford the maneuvers. For example a pilot with a Speed of 4 can execute 2 straight maneuvers & 1 bank maneuver (1 + 1 + 2).
 * A pilot must move at least once each round. No standing still!
 * If any part of a ship token goes off the board at the end of a maneuver, that ship is destroyed!
 
-Straight image
-
-Bank image
-
-Turn Image
+![4](https://user-images.githubusercontent.com/1668182/172546041-23a71294-705b-4b5c-95fb-6a7d7e0d63cc.jpg)
 
 ## Attack Stage
 * The attacker declares which enemy ship they will attack.
@@ -62,11 +58,11 @@ Turn Image
 
 This image shows a situation where the valkyrie ship can shoot at the raider ship and the raider ship cannot shoot at the valkyrie ship.
 
-Image of ships and firing
+![5](https://user-images.githubusercontent.com/1668182/172547231-e03df0cc-a76d-466c-90d3-3e2cd9548c8b.jpg)
 
 This image shows an attacking raider ship lined up with it's forward firing lines aimed directly at the valkyrie ship, giving the raider pilot an extra attack die to roll.
 
-Image of straight line firing
+![6](https://user-images.githubusercontent.com/1668182/172547648-26d027a3-4ae9-4599-953e-e689b51f6dc3.jpg)
 
 
 A new round begins and the pilot who went second in the previous round now gets the first player token and goes first.
@@ -89,7 +85,7 @@ This rule prevents a pilot from being stuck when they are being tailed by an opp
 	• The Speed cost of the maneuver is double the normal cost of whichever maneuver template the player is using (the straight now costs 2, the bank now costs 4).
 	• Players cannot perform a Split S and gain altitude in the same round.
 
-Split S Image
+![7](https://user-images.githubusercontent.com/1668182/172547999-6b127c26-52b9-4eec-8c83-df06a5fadb5f.jpg)
 
 ### Barrel Roll
 
@@ -98,5 +94,5 @@ This rule rewards expertly skills pilots who can maneuver their plane into just 
 	• The speed cost for a Barrel roll is twice whatever number is on the template (2 maneuver costs 4, 3 maneuver costs 6)
 	• Players cannot perform a Barrel roll and gain altitude in the same round.
 
-Barrel Roll Image
+![8](https://user-images.githubusercontent.com/1668182/172548365-ba3f3f74-7986-4e82-a489-ecb26c1cf201.jpg)
 
